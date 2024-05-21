@@ -10,7 +10,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <title>Alphaloop</title>
+        <title>Alphaloop Portfolio</title>
         <link rel="icon" href="/img/favicon.ico" />
       </Head>
       <Cursor />
