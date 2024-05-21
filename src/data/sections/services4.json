@@ -1,0 +1,38 @@
+[
+  {
+      "id": 1,
+      "title": "Digital Marketing",
+      "icon": "pe-7s-gleam",
+      "content": "Boost your online presence and reach your audience effectively with our tailored digital marketing strategies."
+  },
+  {
+    "id": 2,
+    "title": "Web & App Development",
+    "icon": "pe-7s-phone",
+    "content": "Transform your ideas into user-friendly digital solutions, whether it's a website or a mobile application."
+  },
+  {
+    "id": 4,
+    "title": "Artificial Intelligence",
+    "icon": "pe-7s-science",
+    "content": "Leverage the power of AI to automate tasks, gain insights from data, and enhance decision-making processes."
+  },
+  {
+    "id": 5,
+    "title": "Graphic Design",
+    "icon": "pe-7s-paint-bucket",
+    "content": "Create visually stunning designs that captivate your audience and communicate your message effectively."
+  },
+  {
+    "id": 6,
+    "title": "Software Development",
+    "icon": "pe-7s-monitor",
+    "content": "Develop robust and scalable software solutions tailored to your specific business needs and requirements."
+  },
+  {
+    "id": 3,
+    "title": "Training and Courses",
+    "icon": "pe-7s-medal",
+    "content": "Enhance your skills and stay ahead of the curve with our comprehensive training programs and courses."
+  }
+]

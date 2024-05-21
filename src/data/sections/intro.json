@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": {
+      "first": "Software",
+      "second": "Devlopment"
+    },
+    "content": "If you need software development services, we're here to help!",
+    "image": "/img/portfolio/full/13.jpg"
+  },
+  {
+    "id": 2,
+    "title": {
+      "first": "Artificial ",
+      "second": "Intelligence"
+    },
+    "content": "For cutting-edge artificial intelligence solutions, look no further!",
+    "image": "/img/portfolio/full/12.jpg"
+  },
+  {
+    "id": 3,
+    "title": {
+      "first": "Web & Graphic ",
+      "second": "Design"
+    },
+    "content": "Our web and graphic design services will bring your vision to life!",
+    "image": "/img/portfolio/full/11.jpg"
+  },
+  {
+    "id": 4,
+    "title": {
+      "first": "Digitial ",
+      "second": "Marketing"
+    },
+    "content": "Let us help you reach your audience with our digital marketing expertise!",
+    "image": "/img/intro/25.jpg"
+  }
+]

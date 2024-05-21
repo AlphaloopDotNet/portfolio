@@ -1,0 +1,49 @@
+[
+  {
+    "id": 1,
+
+    "darkImage": "/img/clients/brands/dark/01.png",
+    "url": "www.7rays.com"
+  },
+  {
+    "id": 2,
+
+    "darkImage": "/img/clients/brands/dark/02.png",
+    "url": "www.aarogyas.com"
+  },
+  {
+    "id": 3,
+   
+    "darkImage": "/img/clients/brands/dark/03.png",
+    "url": "www.dsiara.com"
+  },
+  {
+    "id": 4,
+    "darkImage": "/img/clients/brands/dark/04.png",
+    "url": "www.weddingS.com"
+  },
+  {
+    "id": 5,
+  
+    "darkImage": "/img/clients/brands/dark/05.png",
+    "url": "www.7DFashion.com"
+  },
+  {
+    "id": 6,
+
+    "darkImage": "/img/clients/brands/dark/06.png",
+    "url": "www.tourbazzar.com"
+  },
+  {
+    "id": 7,
+
+    "darkImage": "/img/clients/brands/dark/07.png",
+    "url": "www.apexsolar.com"
+  },
+  {
+    "id": 8,
+
+    "darkImage": "/img/clients/brands/dark/08.png",
+    "url": "www.sirishtech.com"
+  }
+]
