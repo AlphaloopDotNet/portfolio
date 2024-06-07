@@ -10,19 +10,19 @@
     {
       "id": 1,
       "icon": "gleam",
-      "name": { "first": "Pixel", "second": "Perfect" },
+      "name": { "first": "Graphic", "second": "Design" },
       "wowDelay": ".3s"
     },
     {
       "id": 2,
       "icon": "science",
-      "name": { "first": "Artificial", "second": "Intelligence" },
+      "name": { "first": "Gen", "second": "AI" },
       "wowDelay": ".5s"
     },
     {
       "id": 3,
       "icon": "monitor",
-      "name": { "first": "Website", "second": "Development" },
+      "name": { "first": "Website", "second": "Dev" },
       "wowDelay": ".8s"
     }
   ]

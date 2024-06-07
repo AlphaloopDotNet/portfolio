@@ -2423,9 +2423,31 @@ header.simpl {
 
 /* ====================== [ End Slider ] ====================== */
 /* ====================== [ Start showcase ] ====================== */
+/* Default styles */
 .showcase-full .parallax-slider .swiper-slide .bg-img {
   background-position: center center;
-  opacity: 0.9; }
+  background-size: cover;
+  opacity: 0.9; 
+}
+
+/* Adjust styles for screens smaller than 768px (tablets and below) */
+@media (max-width: 768px) {
+  .showcase-full .parallax-slider .swiper-slide .bg-img {
+    background-position: center top;
+    background-size:100%;
+    opacity: 0.9; 
+  }
+}
+
+/* Adjust styles for screens smaller than 480px (mobile devices) */
+@media (max-width: 480px) {
+  .showcase-full .parallax-slider .swiper-slide .bg-img {
+    background-position: center top;
+    background-size:100%;
+    opacity: 0.9; 
+  }
+}
+
 
 .showcase-full .parallax-slider .caption h1 {
   font-size: 9vw;
@@ -3880,10 +3902,26 @@ header.simpl {
 /* ====================== [ Start Testimonials ] ====================== */
 .testimonials .item {
   text-align: center;
-  margin: 0 15px; }
+  
+  /* margin: 0 25px 0 25px; */
+ }
   .testimonials .item p {
     font-size: 22px;
-    font-weight: 300; }
+    font-weight: 300; 
+    /* margin: 0px 20px 0px 20px; */
+  }
+  @media (max-width: 768px) {
+    .testimonials .item p {
+        font-size: 14px;
+    }
+}
+
+/* Adjust font size for screens smaller than 480px (mobile devices) */
+@media (max-width: 480px) {
+    .testimonials .item p {
+        font-size: 12px;
+    }
+}
   .testimonials .item .info {
     margin-top: 30px; }
     .testimonials .item .info .img {
@@ -4878,12 +4916,13 @@ header.simpl {
       overflow: auto;
       background: #11141b;
       text-align: center;
-      padding: 10px 15px; }
+      /* padding: 10px 15px;  */
+    }
     .navbar .nav-link {
       margin: 10px auto !important; }
   .navbar .logo {
     margin-left: 15px;
-    width: 50px; }
+    width: 150px; }
   .nav-scroll .navbar-collapse .nav-link,
   .light .navbar-collapse .nav-link {
     color: #fff !important; }
@@ -5078,7 +5117,7 @@ header.simpl {
     right: 15px;
     bottom: 15px; }
   .navbar .logo {
-    width: 40px; }
+    width: 150px; }
   .hamenu .menu-links .main-menu > li {
     font-size: 24px; }
   .hamenu .menu-links .main-menu .sub-menu li {
@@ -5086,7 +5125,7 @@ header.simpl {
   .topnav .container-fluid {
     padding: 0 30px; }
   .topnav .logo {
-    width: 40px; }
+    width: 150; }
   .btn-curve {
     padding: 8px 15px; }
     .btn-curve span {
